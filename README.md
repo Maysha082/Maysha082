@@ -67,9 +67,8 @@ config:
     pieTitleTextColor: "#FFFFFF"
     pieStrokeColor: "#0D1117"
     pieOuterStrokeColor: "#8B5CF6"
-    pieOpacity: 0.9
 ---
-pie showData
+pie
     title Expertise
     "C Programming" : 25
     "Java" : 20
@@ -78,8 +77,6 @@ pie showData
     "Software Engineering" : 15
     "Project Management" : 10
 ```
-
----
 
 <h2>🐦‍🔥 GitHub Analytics</h2>
 
