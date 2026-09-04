@@ -36,17 +36,27 @@ Currently focused on programming, software development, problem solving, and AI.
 
 - C Programming
 - Java & Object-Oriented Programming
-- Data Structures & Algorithms
+- Data Structures
+- Algorithms
 - Git & GitHub
 - Software Engineering
+- Project Management
 - AI-based Projects
 - Problem Solving
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Skills Overview
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maysha082&theme=tokyo-night)
+```mermaid
+pie title Current Focus
+    "C Programming" : 25
+    "Java" : 20
+    "Data Structures" : 15
+    "Algorithms" : 15
+    "Software Engineering" : 15
+    "Project Management" : 10
+```
 
 ---
 
@@ -69,5 +79,3 @@ Currently focused on programming, software development, problem solving, and AI.
 <p align="center">
 ✨ Learning • Building • Improving ✨
 </p>
-
-
