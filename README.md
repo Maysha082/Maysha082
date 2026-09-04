@@ -63,6 +63,26 @@ pie title Expertise
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Maysha082&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=38BDF8"
+  />
+
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maysha082&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Maysha082&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=A5B4FC&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  />
+</p>
+
 ## 🌱 My Goal
 
 > Learn continuously, build meaningful projects, and grow as a software engineer.
