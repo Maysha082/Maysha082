@@ -52,7 +52,25 @@
 ## 📈 Skills Overview
 
 ```mermaid
-pie title Expertise
+---
+config:
+  theme: base
+  themeVariables:
+    pie1: "#7F5AF0"
+    pie2: "#6366F1"
+    pie3: "#38BDF8"
+    pie4: "#A78BFA"
+    pie5: "#2563EB"
+    pie6: "#C4B5FD"
+    pieSectionTextColor: "#FFFFFF"
+    pieLegendTextColor: "#FFFFFF"
+    pieTitleTextColor: "#FFFFFF"
+    pieStrokeColor: "#0D1117"
+    pieOuterStrokeColor: "#8B5CF6"
+    pieOpacity: 0.9
+---
+pie showData
+    title Expertise
     "C Programming" : 25
     "Java" : 20
     "Data Structures" : 15
