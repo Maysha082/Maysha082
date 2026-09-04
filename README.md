@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Maysha 👋</h1>
 
-<!--
-**Maysha082/Maysha082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Engineering Student | Developer | AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I enjoy learning, building, and exploring new technologies.
+Currently focused on programming, software development, problem solving, and AI.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Software Engineering Student
+- 💻 Interested in Software Development & AI
+- 🌱 Currently improving my C, Java, Git & GitHub skills
+- 🧠 Learning Data Structures, Algorithms and OOP
+- 🚀 Interested in building practical software and AI-based projects
+- 📚 Always exploring new technologies and development tools
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,java,git,github,vscode" />
+
+</p>
+
+---
+
+## 💡 Currently Focused On
+
+- C Programming
+- Java & Object-Oriented Programming
+- Data Structures & Algorithms
+- Git & GitHub
+- Software Engineering
+- AI-based Projects
+- Problem Solving
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maysha082&show_icons=true&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maysha082&layout=compact&hide_border=true" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Maysha082&hide_border=true" />
+
+</p>
+
+---
+
+## 🌱 My Goal
+
+> Learn continuously, build meaningful projects, and grow as a software engineer.
+
+---
+
+<p align="center">
+✨ Learning • Building • Improving ✨
+</p>
+
+
