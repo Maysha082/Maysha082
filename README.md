@@ -63,11 +63,15 @@ pie title Expertise
 
 ---
 
-## 🐦‍🔥 GitHub Analytics
+<h2>🐦‍🔥 GitHub Analytics</h2>
 
-| |
-|:---:|
-| <img src="https://streak-stats.demolab.com?user=Maysha082&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=A5B4FC&currStreakNum=FFFFFF&sideNums=FFFFFF" /> |
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Maysha082&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=A5B4FC&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+    </td>
+  </tr>
+</table>
 
 ## 🌱 My Goal
 
