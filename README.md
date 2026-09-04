@@ -49,7 +49,7 @@ Currently focused on programming, software development, problem solving, and AI.
 ## 📈 Skills Overview
 
 ```mermaid
-pie title Current Focus
+pie title Expertise
     "C Programming" : 25
     "Java" : 20
     "Data Structures" : 15
