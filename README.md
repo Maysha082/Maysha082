@@ -47,11 +47,15 @@ Currently focused on programming, software development, problem solving, and AI.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maysha082&show_icons=true&hide_border=true" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maysha082&layout=compact&hide_border=true" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Maysha082&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maysha082&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 </p>
 
 ---
