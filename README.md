@@ -21,15 +21,21 @@
 
 # 👩‍💻 About Me
 
-| 🎓 Academic | 💻 Development |
-|---|---|
-| **Software Engineering Student** | **Software Development & AI** |
-| Learning software engineering concepts and building strong fundamentals. | Interested in creating practical software and exploring AI technologies. |
+### 🎓 Academic
+- **Software Engineering Student**
+- Learning software engineering concepts and building strong fundamentals.
 
-| 🧠 Learning | 🚀 Building |
-|---|---|
-| **Data Structures • Algorithms • OOP** | **Projects & Problem Solving** |
-| Improving programming skills through regular learning and practice. | Turning ideas into useful projects and solving real-world problems. |
+### 💻 Development
+- **Software Development & AI**
+- Interested in creating practical software and exploring AI technologies.
+
+### 🧠 Learning
+- **Data Structures • Algorithms • OOP**
+- Improving programming skills through regular learning and practice.
+
+### 🚀 Building
+- **Projects & Problem Solving**
+- Turning ideas into useful projects and solving real-world problems.
 
 <br>
 
@@ -59,55 +65,67 @@
 
 # 💡 Currently Focused On
 
-### 💻 Programming & Development
-
-<p>
-  <img src="https://img.shields.io/badge/C-Programming-8E3B46?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-OOP-D46A4C?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software-Engineering-6D597A?style=for-the-badge" />
+<p align="center">
+  <b>💻 Programming & Development</b>
 </p>
 
-### 🧠 Computer Science Fundamentals
-
-<p>
-  <img src="https://img.shields.io/badge/Data-Structures-6D597A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-Problem%20Solving-8E3B46?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-Java-D46A4C?style=for-the-badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/C-8E3B46?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Programming-8E3B46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-6A6A6A?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-D46A4C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software-6A6A6A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Engineering-6D597A?style=for-the-badge" />
 </p>
 
-### 🚀 Tools, Projects & Growth
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-GitHub-D46A4C?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Based-Projects-8E3B46?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Project-Management-F4B183?style=for-the-badge&labelColor=A44A3F" />
+<p align="center">
+  <b>🧠 Computer Science Fundamentals</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-6A6A6A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Structures-6D597A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-6A6A6A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-8E3B46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-6A6A6A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-D46A4C?style=for-the-badge" />
+</p>
+
+<br>
+
+<p align="center">
+  <b>🚀 Tools, Projects & Growth</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-6A6A6A?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-D46A4C?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project-8E3B46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Management-F4B183?style=for-the-badge&labelColor=A44A3F" />
 </p>
 
 ---
 
 # 📊 Skills Overview
 
-| Skill | Progress |
-|---|---|
-| 💻 **C Programming** | `████████░░` 80% |
-| ☕ **Java & OOP** | `███████░░░` 70% |
-| 🧠 **Data Structures** | `███████░░░` 70% |
-| ⚙️ **Algorithms** | `██████░░░░` 60% |
-| 🛠️ **Software Engineering** | `███████░░░` 70% |
-| 📋 **Project Management** | `██████░░░░` 60% |
-
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C%20Programming-80%25-8E3B46?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java%20%26%20OOP-70%25-D46A4C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Structures-70%25-6D597A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%20Programming-80%25-6A6A6A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/80%25-8E3B46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java%20%26%20OOP-70%25-6A6A6A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/70%25-D46A4C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Structures-70%25-6A6A6A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/70%25-6D597A?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Algorithms-60%25-F4B183?style=for-the-badge&labelColor=A44A3F" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-70%25-8E3B46?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Project%20Management-60%25-D46A4C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-60%25-8E3B46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/60%25-F4B183?style=for-the-badge&labelColor=A44A3F" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-70%25-6A6A6A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/70%25-8E3B46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project%20Management-60%25-6A6A6A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/60%25-D46A4C?style=for-the-badge" />
 </p>
 
 ---
@@ -123,24 +141,21 @@
 # 🌱 My Goal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learn-Continuously-8E3B46?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Build-Meaningful%20Projects-D46A4C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Grow-Software%20Engineer-F4B183?style=for-the-badge&labelColor=A44A3F" />
+  <img src="https://img.shields.io/badge/Learn-8E3B46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Continuously-8E3B46?style=for-the-badge&labelColor=A44A3F" />
+  <img src="https://img.shields.io/badge/Build-D46A4C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Meaningful%20Projects-D46A4C?style=for-the-badge&labelColor=C96A4E" />
+  <img src="https://img.shields.io/badge/Grow-8E3B46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-F4B183?style=for-the-badge&labelColor=A44A3F" />
 </p>
+
+<br>
 
 <p align="center">
   <i>Learn continuously, build meaningful projects, and grow as a software engineer.</i>
 </p>
 
 <br>
-
-<p align="center">
-  ✦ ─────────── ✦
-  <br><br>
-  <b>Learning • Building • Improving</b>
-  <br><br>
-  ✦ ─────────── ✦
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1B1F3A,30:6D597A,55:8E3B46,78:D46A4C,100:F4B183" />
